@@ -1,0 +1,28 @@
+table{
+  width:50%;
+  padding:10px;
+  border:1px solid black;
+  border-collapse:collapse;
+  text-align:left;
+}
+tr,td,th{
+  border:1px solid black;
+  padding:5px;
+}
+
+th{
+  background:gray;
+  color:white;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+.btn{
+  margin-right:10px;
+}
+
+
