@@ -3,9 +3,13 @@ Requirements
 Here I provide information on issues that are done in this submit
 
 Basic requirements (If these aren’t met the assignment will not pass):
+
 1, A user needs to be able to add a new service with URL and a name   (DONE)
+
 2, Added services have to be kept when the server is restarted        (DONE)
+
 3, Display the name, url, creation time and status for each service   (DONE)
+
 4, Provide a README in english with instructions on how to run the application (DONE)
 
 
